@@ -23,7 +23,7 @@ public class Main extends JavaPlugin{
 		
 		bossBarWelcome = Bukkit.createBossBar(
 				ChatColor.DARK_RED + "" + ChatColor.MAGIC + " " + ChatColor.GOLD + "Welcome" + " to the Best Testing Server Ever" + ChatColor.DARK_RED + ChatColor.MAGIC + " " , 
-				BarColor.WHITE, 
+				BarColor.GREEN, 
 				BarStyle.SOLID);	
 		
 
